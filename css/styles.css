@@ -583,6 +583,8 @@ img {
     color: #fff;
     height: 250px;
     padding-top: 8rem;
+    display: flex;
+    justify-content: space-between;
 }
 
 .inner-header h1 {
